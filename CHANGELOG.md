@@ -1,5 +1,11 @@
 # @hyperlane-xyz/registry
 
+## 2.1.1
+
+### Patch Changes
+
+- d712147: Add `gnosisSafeTransactionServiceUrl` for `blast` and `mode` networks
+
 ## 2.1.0
 
 ### Minor Changes
